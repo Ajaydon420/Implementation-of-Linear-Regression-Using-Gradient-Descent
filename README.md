@@ -18,10 +18,10 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 
-/*
+```/*
 Program to implement the linear regression using gradient descent.
-Developed by: Ajay K
-RegisterNumber: 212222080005 
+### Developed by: Ajay K
+#### RegisterNumber: 212222080005 
 */
 ```
 import pandas as pd
@@ -74,9 +74,9 @@ plt.show()```
 
 
 ## Output:
-![linear regression using gradient descent](sam.png)
-![image](https://github.com/Ajaydon420/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161410969/7377d7c7-a408-4811-8c9f-d96ab4350779)
-![image](https://github.com/Ajaydon420/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161410969/9431564b-99e4-4161-895e-61d074c3e5a9)
+![162617742-2d1bdf0a-a082-41a3-8d60-d2b5ebc6f8c0](https://github.com/Ajaydon420/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161410969/4962deb8-54a8-4842-a064-d832daccd632)
+![162617234-f18c8d2f-9833-4553-8e0b-69a37c49d18f](https://github.com/Ajaydon420/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161410969/49137f2f-270f-46dd-a96a-5aed8ee07cea)
+
 
 
 
