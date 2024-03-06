@@ -18,7 +18,7 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 
-```/*
+/*
 Program to implement the linear regression using gradient descent.
 ### Developed by: Ajay K
 #### RegisterNumber: 212222080005 
@@ -70,7 +70,8 @@ plt.show()
 plt.plot(loss, color="skyblue")
 plt.xlabel("Iterations")
 plt.ylabel("Loss")
-plt.show()```
+plt.show()
+```
 
 
 ## Output:
